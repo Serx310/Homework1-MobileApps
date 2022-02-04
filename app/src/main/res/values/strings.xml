@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework1</string>
+    <string name="info">Transylvania is a historical region in central Romania. To the east and south its natural border is the Carpathian Mountains, and to the west the Apuseni Mountains. Broader definitions of Transylvania also encompass the western and north-western Romanian regions Crișana and Maramureș, and occasionally Banat. Transylvania is known for the scenery of its Carpathian landscape and its rich history. It also contains the nation/s fourth largest city, Cluj-Napoca, as well as other cities and towns such as Brașov, Sibiu, Târgu Mureș, Alba Iulia, and Bistrița.The Western world commonly associates Transylvania with vampires because of the influence of Bram Stoker/'s novel Dracula and subsequent books and many films the tale has inspired.</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+</resources>
